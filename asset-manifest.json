@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f445b63.css",
+    "main.js": "/static/js/main.736fb76a.js",
+    "static/media/me.jpg": "/static/media/me.d2515751e91b44981d0e.jpg",
+    "static/media/real-estate.jpg": "/static/media/real-estate.9334b6ad7dbd1a54a380.jpg",
+    "static/media/crowns.jpg": "/static/media/crowns.64464e3ce88a240dec89.jpg",
+    "static/media/ucars.jpg": "/static/media/ucars.5a0b116afa2d9b1e4cb0.jpg",
+    "static/media/ucars-carList.jpg": "/static/media/ucars-carList.1ad4b1b4c6e38615e2ad.jpg",
+    "static/media/cryptoverse.jpg": "/static/media/cryptoverse.219588f6cbe74d48131d.jpg",
+    "static/media/react.svg": "/static/media/react.7098e2714733fed1ce8cdb90d51c4289.svg",
+    "static/media/node.svg": "/static/media/node.18fe5d93920cc81588171b074ddc4fe3.svg",
+    "static/media/js.svg": "/static/media/js.f719efab5b799ddc35b5055935a3cedd.svg",
+    "static/media/css.svg": "/static/media/css.b3c0acbf83dd5d6e5ab455b9de967ab9.svg",
+    "static/media/html.svg": "/static/media/html.8c11e1a8364b520a311ac9bf8b5d2fbf.svg",
+    "index.html": "/index.html",
+    "main.8f445b63.css.map": "/static/css/main.8f445b63.css.map",
+    "main.736fb76a.js.map": "/static/js/main.736fb76a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f445b63.css",
+    "static/js/main.736fb76a.js"
+  ]
+}
